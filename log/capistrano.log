@@ -1,0 +1,48 @@
+# Logfile created on 2019-01-15 00:11:40 +0530 by logger.rb/61378
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:11:40 +0530 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e7d8010c] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [e7d8010c] Command: /usr/bin/env mkdir -p /tmp
+  INFO [33ee51f5] Running /usr/bin/env mkdir -p /tmp on port
+ DEBUG [33ee51f5] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:19:50 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [070b59ed] Running /usr/bin/env mkdir -p /tmp as abhimanu@162.221.190.147
+ DEBUG [070b59ed] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:21:03 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [9e5b3c77] Running /usr/bin/env mkdir -p /tmp as abhimanu@162.221.190.147
+ DEBUG [9e5b3c77] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:23:18 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [3612c8da] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [3612c8da] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:40:01 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [60abc6c5] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [60abc6c5] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:48:30 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [99c698d1] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [99c698d1] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:51:04 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d95f198d] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [d95f198d] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:51:18 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0aef8201] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [0aef8201] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-01-15 00:57:34 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8e120807] Running /usr/bin/env mkdir -p /tmp as abhimanu@abhimanusharma.com
+ DEBUG [8e120807] Command: /usr/bin/env mkdir -p /tmp

@@ -7,7 +7,12 @@
 # server "example.com", user: "deploy", roles: %w{app web}, other_property: :other_value
 # server "db.example.com", user: "deploy", roles: %w{db}
 
-
+server 'abhimanusharma.com', user: 'abhimanu', roles: %w{web app laravel composer}, port: 1157
+set :ssh_options, {
+    keys: %w(/c/Users/Abhi/.ssh/id_rsa),
+    forward_agent: false,
+    auth_methods: %w(publickey)
+  }
 
 # role-based syntax
 # ==================
